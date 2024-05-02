@@ -1,5 +1,4 @@
 import nancy from "/image.png";
-import { ReactTyped } from "react-typed";
 import { ReactTyped,Typed } from "react-typed";
 
 
@@ -26,12 +25,12 @@ import { ReactTyped,Typed } from "react-typed";
 //   </div>
 // );
 
-const MyComponent  {
-    const [typed,setTyped] = React.useState<Typed| undefined>()
-}
+// const MyComponent  {
+    
+// }
 
 function App() {
-
+    const [typed,setTyped] = React.useState<Typed| undefined>
 
 
   return (
