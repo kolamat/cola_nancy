@@ -18,7 +18,7 @@ class User extends Type {
   }
 }
 
-console.log(constructor);
+console.log(Type);
 
 function App() {
   return (
